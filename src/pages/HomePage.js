@@ -1,10 +1,10 @@
 import React from 'react';
-import GridContainer from './GridContainer';
-import Header from './Header';
-import Article from './Article';
-import Nav from './Nav';
-import Ads from './Ads';
-import Footer from './Footer';
+import GridContainer from '../styled-components/GridContainer';
+import Header from '../styled-components/Header';
+import Article from '../styled-components/Article';
+import Nav from '../styled-components/Nav';
+import Ads from '../styled-components/Ads';
+import Footer from '../styled-components/Footer';
 
 function HomePage() {
   return (
