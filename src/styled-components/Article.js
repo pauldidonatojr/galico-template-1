@@ -1,8 +1,8 @@
-import styled from 'styled-components';
-import GridItem from './GridItem';
+import styled from 'styled-components'
+import GridItem from './GridItem'
 
 const Article = styled(GridItem)`
-  grid-area: article;
-`;
+    grid-area: article;
+`
 
-export default Article;
+export default Article

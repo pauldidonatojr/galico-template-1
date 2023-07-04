@@ -1,8 +1,8 @@
-import styled from 'styled-components';
-import GridItem from './GridItem';
+import styled from 'styled-components'
+import GridItem from './GridItem'
 
 const Footer = styled(GridItem)`
-  grid-area: footer;
-`;
+    grid-area: footer;
+`
 
-export default Footer;
+export default Footer

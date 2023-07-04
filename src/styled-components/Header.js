@@ -1,8 +1,8 @@
-import styled from 'styled-components';
-import GridItem from './GridItem';
+import styled from 'styled-components'
+import GridItem from './GridItem'
 
 const Header = styled(GridItem)`
-  grid-area: header;
-`;
+    grid-area: header;
+`
 
-export default Header;
+export default Header
